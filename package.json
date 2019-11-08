@@ -1,0 +1,17 @@
+{
+  "name": "@mospired/express-htm-preact",
+  "version": "0.1.0",
+  "description": "Express htm/preact view engine",
+  "main": "index.js",
+  "repository": "git@github.com:mospired/express-htm-preact.git",
+  "author": "mospired <mo@mospired.com>",
+  "license": "MIT",
+  "dependencies": {
+    "htm": "^2.2.1",
+    "preact": "^10.0.4",
+    "preact-render-to-string": "^5.1.1"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
